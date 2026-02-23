@@ -1,0 +1,21 @@
+﻿Java: [ 'openjdk-jdk-22+36', 'openjdk-jdk-21+35' ]
+C++: [
+  'gcc-head',     'gcc-13.2.0',
+  'gcc-12.3.0',   'gcc-11.4.0',
+  'gcc-10.5.0',   'gcc-9.3.0',
+  'gcc-8.4.0',    'gcc-7.5.0',
+  'gcc-6.5.0',    'clang-head',
+  'clang-17.0.1', 'clang-16.0.4',
+  'clang-15.0.7', 'clang-14.0.6'
+]
+Python: [
+  'cpython-head',     'cpython-2.7-head',
+  'cpython-3.14.0',   'cpython-3.13.8',
+  'cpython-3.12.7',   'cpython-3.11.10',
+  'cpython-3.10.15',  'cpython-3.9.20',
+  'cpython-3.8.20',   'cpython-3.7.17',
+  'cpython-2.7.18',   'pypy-3.10-v7.3.17',
+  'pypy-3.9-v7.3.16', 'pypy-3.8-v7.3.11',
+  'pypy-3.7-v7.3.9',  'pypy-2.7-v7.3.17'
+]
+JS: [ 'nodejs-20.17.0', 'nodejs-18.20.4' ]
